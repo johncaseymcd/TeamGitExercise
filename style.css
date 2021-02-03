@@ -13,6 +13,11 @@ body{
     font-style: italic;
 }
 
+#easterEgg{
+    color: #e7e7e7;
+    text-decoration: none;
+}
+
 #caseyHeadshot{
     width: 500px;
     height: 350px;
@@ -22,6 +27,7 @@ body{
 
 #caseyDesc{
     width: 500px;
+    text-align: justify;
 }
 
 .header{
@@ -31,7 +37,7 @@ body{
 
 .topFive{
     list-style-type: decimal;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.075em;
 }
 
 .listHeader{
