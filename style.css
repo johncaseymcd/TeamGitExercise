@@ -1,0 +1,40 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e7e7e7;
+}
+
+#teamName{
+    text-decoration: underline;
+    color: #991600;
+    font-size: 72px;
+}
+
+#teamMembers{
+    font-style: italic;
+}
+
+#caseyHeadshot{
+    width: 500px;
+    height: 350px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+
+#caseyDesc{
+    width: 500px;
+}
+
+.header{
+    text-align: center;
+    width: 100%;
+}
+
+.topFive{
+    list-style-type: decimal;
+    letter-spacing: 0.1em;
+}
+
+.listHeader{
+    text-decoration: underline;
+    color: #00840d;
+}
