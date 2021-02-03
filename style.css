@@ -13,9 +13,8 @@ body{
     font-style: italic;
 }
 
-#easterEgg{
-    color: #e7e7e7;
-    text-decoration: none;
+#container{
+    float: left;
 }
 
 #caseyHeadshot{
@@ -28,6 +27,11 @@ body{
 #caseyDesc{
     width: 500px;
     text-align: justify;
+}
+
+#easterEgg{
+    color: #e7e7e7;
+    text-decoration: none;
 }
 
 .header{
