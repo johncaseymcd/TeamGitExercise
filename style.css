@@ -1,0 +1,50 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e7e7e7;
+}
+
+#teamName{
+    text-decoration: underline;
+    color: #991600;
+    font-size: 72px;
+}
+
+#teamMembers{
+    font-style: italic;
+}
+
+#container{
+    float: left;
+}
+
+#caseyHeadshot{
+    width: 500px;
+    height: 350px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+
+#caseyDesc{
+    width: 500px;
+    text-align: justify;
+}
+
+#easterEgg{
+    color: #e7e7e7;
+    text-decoration: none;
+}
+
+.header{
+    text-align: center;
+    width: 100%;
+}
+
+.topFive{
+    list-style-type: decimal;
+    letter-spacing: 0.075em;
+}
+
+.listHeader{
+    text-decoration: underline;
+    color: #00840d;
+}
